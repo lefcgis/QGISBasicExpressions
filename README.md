@@ -1,4 +1,5 @@
 # **Expresiones en QGIS**
+![Calculadora de expresiones](https://raw.githubusercontent.com/lefcgis/qgis_basic_expressions/master/assets/ImagenV1.png).
 
 
 En **[QGIS](https://www.qgis.org/es/site/)**, las expresiones son una herramienta poderosa utilizada para realizar cálculos y operaciones lógicas sobre datos geoespaciales. Se emplean en diversos contextos, tales como la simbología de capas, el etiquetado de características, la creación de campos calculados, la filtración de datos y la realización de análisis geoespaciales. Las expresiones en **QGIS** son similares a las fórmulas en programas de hoja de cálculo y se componen de funciones, operadores y referencias a campos de datos. Su sintaxis es similar a la de otras suites GIS (GvSIG, SuperMap, MapInfo, Manifold, _ArcGI$_, etc).    
