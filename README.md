@@ -1,4 +1,4 @@
-# <h1> Expresiones en QGIS  😃🎁 </h1>
+# <h1> Expresiones con QGIS 😃🎁 </h1>
 
 ![Calculadora de expresiones](https://farm66.static.flickr.com/65535/51114788190_480db1aef0.jpg).
 
@@ -124,4 +124,11 @@ Función:
 Utilizamos la combinación de una serie de campos con información textual para construir una nueva información más detallada.  
 Ejemplo:
 > '¡Ladra!, soy Lucho Ferrer y trabajo con ' **||** "name__software_libre" **||** 'Únete y sé parte de mi #QGISarmy. Abraza la fé y ponle pausa a '' **||** "names_software_pagado" ''
+<br />
+<br />
+<br />
+<br />
 
+*Si estás interesado en continuar aprendiendo a desarrollar expresiones o diseñar mapas que impacten en tu público objetivo, puedes inscribirte en nuestros próximos cursos online de Geokey TechnoloGIS.*  
+
+*Lucho Ferrer, a vuestros servicios*🏋️‍♀️
