@@ -129,6 +129,6 @@ Ejemplo:
 <br />
 <br />
 
-*Si estás interesado en continuar aprendiendo a desarrollar expresiones o diseñar mapas que impacten en tu público objetivo, puedes inscribirte en nuestros próximos cursos online de Geokey TechnoloGIS.*  
+*Si estás interesado en continuar aprendiendo a desarrollar expresiones o diseñar mapas que impacten en tu público objetivo, puedes inscribirte en nuestros próximos cursos online de El Laboratorio de Lucho*  
 
 *Lucho Ferrer, a vuestros servicios*🏋️‍♀️
